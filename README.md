@@ -1,7 +1,7 @@
 # Simplify AI
 <p>Live - https://simplify-ai-beige.vercel.app/</p>
 A tiny open-model study buddy built for a friend who keeps saying:
-**"Make difficult topics simple."**
+"Make difficult topics simple."
 
 ## What it does
 Paste any study topic or notes, choose:
@@ -83,3 +83,6 @@ Open the Vite URL shown in the terminal.
 Built for a real friend who needs difficult college topics explained quickly in simple English/Hinglish.
 
 The open-model angle matters because the model can be swapped, self-hosted later, or run locally without redesigning the app.
+
+## Developer
+Prince Kumar Gupta
