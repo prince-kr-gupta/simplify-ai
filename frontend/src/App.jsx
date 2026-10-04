@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+import ReactMarkdown from "react-markdown";
 
 const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
 
@@ -158,10 +158,8 @@ function App() {
 
           {answer && (
             <div className="answer">
-              {answer.split("\n").map((line, i) => (
-                <p key={i}>{line || <br />}</p>
-              ))}
-            </div>
+  <ReactMarkdown>{answer}</ReactMarkdown>
+</div>
           )}
         </section>
       </section>
