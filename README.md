@@ -1,5 +1,5 @@
 # Simplify AI
-
+<p>Live - https://simplify-ai-beige.vercel.app/</p>
 A tiny open-model study buddy built for a friend who keeps saying:
 **"Make difficult topics simple."**
 
